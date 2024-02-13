@@ -1,0 +1,7 @@
+streamlit
+streamlit-chat
+openai
+python-decouple
+watchdog
+altair
+python-dotenv
